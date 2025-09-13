@@ -6,8 +6,7 @@
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/Ashutosh_2601?t=CT7aWSnO4BG69uAOpNeVMw&s=09) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ashutosh.kumar.26.004@gmail.com) 
 
-
-## Activity Trail
+## 📈 Activity Trail
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ashutosh-K0/Ashutosh-K0/output/github-contribution-grid-snake-dark.svg">
@@ -15,6 +14,7 @@
     <img alt="github-snake" src="https://raw.githubusercontent.com/Ashutosh-K0/Ashutosh-K0/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
+
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
