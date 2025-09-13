@@ -7,7 +7,7 @@
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ashutosh.kumar.26.004@gmail.com) 
 
 
-## 🐍 Snake Eating My Contributions
+## Activity Trail
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ashutosh-K0/Ashutosh-K0/output/github-contribution-grid-snake-dark.svg">
