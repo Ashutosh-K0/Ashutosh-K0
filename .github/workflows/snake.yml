@@ -1,9 +1,11 @@
-name: Generate contribution-snake
+name: Generate Colorful Gradient Snake
 
+# Trigger: daily at 7:30 AM IST + manual runs
 on:
   schedule:
-    - cron: '0 */12 * * *' # every 12 hours
-  workflow_dispatch:
+    # 7:30 AM IST is 2:00 AM UTC → runs daily
+    - cron: '0 2 * * *'
+  workflow_dispatch: # allows manual triggering
 
 permissions:
   contents: write
@@ -11,20 +13,26 @@ permissions:
 jobs:
   generate-snake:
     runs-on: ubuntu-latest
+
     steps:
+      # Step 1: Checkout repo
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
 
-      - name: Generate snake SVGs (light + dark)
+      # Step 2: Generate snake SVGs with gradient colors
+      - name: Generate snake SVGs with smooth gradient
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: Ashutosh-K0
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+          palette: "255,0,128, 255,64,64, 255,128,0, 128,192,255, 64,255,192, 0,255,128" 
+          # Gradient: pink → red → orange → light blue → cyan → green
 
+      # Step 3: Push SVGs to output branch
       - name: Deploy generated images to 'output' branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
