@@ -51,9 +51,10 @@
 ---
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Ashutosh-K0&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=86400)  
-![](https://nirzak-streak-stats.vercel.app/?user=Ashutosh-K0&theme=vision-friendly-dark&hide_border=false)  
-![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Ashutosh-K0&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&cache_seconds=86400)
+
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Ashutosh-K0&show_icons=true&theme=vision-friendly-dark)
+
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Ashutosh-K0&layout=compact&theme=vision-friendly-dark)
 
 ---
 
