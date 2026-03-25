@@ -1,5 +1,5 @@
 # 💫 About Me:
-✨ Final Year Student @ VIT CHENNAI<br>⚡Exploring the domain of Embedded Systems<br>🔭Aspiring Java Developer<br>🌱Building my foundation in Data Analytics
+✨ Final Year Student @ VIT CHENNAI<br>⚡Exploring the domain of Embedded Systems<br>🔭Aspiring Python Developer<br>🌱Building my foundation in Data Analytics
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ashutosh-kumar-b21519272/) 
